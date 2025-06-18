@@ -1,5 +1,28 @@
 # Changelog
 
+## 2.18.0
+
+### Grafana Mimir
+
+* [ENHANCEMENT] Distributor: Enhance. #1
+* [BUGFIX] Compactor: Fix bug. #2
+
+### Mixin
+
+* [CHANGE] Dashboards: Change. #3
+
+### Jsonnet
+
+### Mimirtool
+
+### Mimir Continuous Test
+
+### Query-tee
+
+### Documentation
+
+### Tools
+
 ## main / unreleased
 
 ### Grafana Mimir
