@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.17.1
+
+### Grafana Mimir
+
+* [ENHANCEMENT] Distributor: Enhance. #1
+* [BUGFIX] Compactor: Fix bug. #2
+
+### Mixin
+
+* [CHANGE] Dashboards: Change. #3
+
 ## main / unreleased
 
 ### Grafana Mimir
